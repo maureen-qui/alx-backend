@@ -1,0 +1,3 @@
+msgid   	English         	French
+home_title	"Welcome to Holberton"	"Bienvenue chez Holberton"
+home_header	"Hello world!"  	"Bonjour monde!"
